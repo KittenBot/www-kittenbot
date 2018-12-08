@@ -7,8 +7,7 @@ menuTitle: Shop
 
 Under construction
 
-
-Our distributors：
+## Our distributors：
 
 [to be finished]
 
