@@ -40,7 +40,7 @@ module.exports = {
   menu: {
     blog: { to: "/blogs/", label: "Blog" },
     products: { to: "/products/", label: "Product" },
-    bbs: { to: "http://kittenbot.cn/bbs/index.php", label: "Forum" },
+    bbs: { to: "http://forum.kittenbot.cc/", label: "Forum" },
     contact: { to: "/contact/", label: "Contact" }
   }
 };
