@@ -1,16 +1,15 @@
 ---
-title: 新网站上线了
+title: New Website Online
 category: "news"
 cover: newnewnew.png
 author: Riven
+path:
 ---
 
-# 小喵家的新网站上线了~
+# Our new website is online~
 
-之前一直被大家吐槽官网太慢，这次终于铁下心来重构了整个网站。原本依赖于网站的应用：
-例如矩阵屏编辑器、scratch3分享、iot大服务器等等将会成为实验室下面的独立应用，后续我们会为大家开发更多类似新奇有趣的应用的了~
+In the past year we have been focusing on the mainland market and have been concentrating on improving our products.
 
-这些应用将会短暂下线，并且移植完成后会重新上线。
-
-另外小喵家的APP强烈依赖于服务器的框架，等这一版网站更新完成后也会同步更新。
+After getting support and affirmative from many users in the domestic market, we hope to go global.
+And our new website is a fresh start.
 

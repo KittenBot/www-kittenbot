@@ -10,6 +10,7 @@ module.exports = {
   /* author */
   authorName: "Kittenbot Team",
   authorTwitterAccount: "Kittenbot1",
+  herotitle: "Welcome to Kittenbot's Lab",
 
   /* info */
   headerTitle: "Kittenbot~",
