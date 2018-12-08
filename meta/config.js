@@ -35,5 +35,11 @@ module.exports = {
     { name: "github", url: "https://github.com/kittenbot" },
     { name: "twitter", url: "https://twitter.com/kittenbot1" },
     { name: "facebook", url: "http://facebook.com/kittenbotcc" }
-  ]
+  ],
+  menu: {
+    blog: { to: "/blogs/", label: "Blog" },
+    products: { to: "/products/", label: "Product" },
+    bbs: { to: "http://kittenbot.cn/bbs/index.php", label: "Forum" },
+    contact: { to: "/contact/", label: "Contact" }
+  }
 };

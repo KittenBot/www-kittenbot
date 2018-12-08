@@ -1,6 +1,6 @@
 ---
-title: 邮件发送成功
+title: Email send success
 ---
 
-非常感谢您的反馈. <br />
-我们会第一时间回复到您留下的邮箱
+Thank you very much for your feedback. <br />
+We will reply to your email address as soon as possible.

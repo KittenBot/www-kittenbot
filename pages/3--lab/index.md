@@ -1,21 +1,18 @@
 ---
-title: 各种新奇有趣好玩的东东
-menuTitle: 实验室
+title: Tools and projects from kittenbot team
+menuTitle: Lab
 ---
 
-## Scratch3 项目分享
 
-网站改版中，预计上线时间 2018/12
+## NeoMatrix editor
 
-## 流光溢彩编辑器
+https://kittenbot.github.io/pxt-neomatrix/index.html
 
-网站改版中，预计上线时间 2018/12 
+## Iot Dashboard
 
-## Iot 服务终端
+Under construction
 
-网站改版中，预计上线时间 2018/12
-
-## Makecode 在线版编辑器 (comming soon)
+## Makecode Editor (comming soon)
 
 ### Microbit
 

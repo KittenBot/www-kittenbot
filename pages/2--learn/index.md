@@ -1,11 +1,15 @@
 ---
-title: 这里有喵家所有教程文档
-menuTitle: 文档
+title: Here are all the tutorial documents for you.
+menuTitle: Doc
 ---
 
-售后技术支持请加qq群：568084773
+Technical support: Join Slack Channel
 
-### 文档大杂烩
-（包括喵家2017~2018所有产品文档教程和使用说明）
+### Document hodgepodge
+(Including the 2017~2018 all product documentation tutorials and instructions for user)
+
+http://learn.kittenbot.cc
+
+or
 
 http://learn.kittenbot.cn
