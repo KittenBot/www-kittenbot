@@ -5,7 +5,7 @@ module.exports = {
   siteUrl: "https://www.kittenbot.cn",
   // pathPrefix: "",
   siteImage: "preview.jpg",
-  siteLanguage: "en",
+  siteLanguage: "zh",
 
   /* author */
   authorName: "Kittenbot Team",
@@ -35,5 +35,13 @@ module.exports = {
     { name: "github", url: "https://github.com/kittenbot" },
     { name: "twitter", url: "https://twitter.com/kittenbot1" },
     { name: "facebook", url: "http://facebook.com/kittenbotcc" }
-  ]
+  ],
+
+  // top menu
+  menu: {
+    blog: { to: "/blogs/", label: "Blog" },
+    products: { to: "/products/", label: "产品" },
+    bbs: { to: "http://kittenbot.cn/bbs/index.php", label: "论坛" },
+    contact: { to: "/contact/", label: "联系我们" }
+  }
 };

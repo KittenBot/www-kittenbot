@@ -9,7 +9,9 @@ menuTitle: 实验室
 
 ## 流光溢彩编辑器
 
-网站改版中，预计上线时间 2018/12 
+已经搬迁到github，未来会在github同步更新~
+
+[https://kittenbot.github.io/pxt-neomatrix/index.html](https://kittenbot.github.io/pxt-neomatrix/index.html)
 
 ## Iot 服务终端
 
