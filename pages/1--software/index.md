@@ -40,7 +40,11 @@ http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115
 
 ## KBlock APP
 
-## Microbit 0025固件
+## Microbit 0250固件
+
+如果您的microbit卡在maintenance界面，或者莫名其妙变砖，可以试试按住A+B之后按复位重启，之后将固件拖入到microbit就复活了~
+
+[https://microbit.org/guide/firmware/](https://microbit.org/guide/firmware/)
 
 ## 各种驱动程序
 

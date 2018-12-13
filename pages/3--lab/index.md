@@ -17,7 +17,11 @@ menuTitle: 实验室
 
 网站改版中，预计上线时间 2018/12
 
-## Makecode 在线版编辑器 (comming soon)
+## Makecode 在线版编辑器
+
+[http://makecode.kittenbot.cn/index.html](http://makecode.kittenbot.cn/index.html)
+
+(支持矩阵屏编辑器neomatrix)
 
 ### Microbit
 
