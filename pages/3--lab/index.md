@@ -5,7 +5,9 @@ menuTitle: 实验室
 
 ## Scratch3 项目分享
 
-网站改版中，预计上线时间 2018/12
+Scratch3项目分享功能模块测试中，请耐心等待下一版APP更新，谢谢 ~
+
+[Scratch3项目分享](/scratch3/)
 
 ## 流光溢彩编辑器
 
@@ -23,7 +25,7 @@ menuTitle: 实验室
 
 (支持矩阵屏编辑器neomatrix)
 
-### Microbit
+### 小喵家的GITHUB仓库
 
-### Meowbit
+[Kittenbot@Github](https://github.com/kittenbot/)
 
