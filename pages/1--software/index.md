@@ -10,7 +10,7 @@ menuTitle: 软件
 
 ## 最新版本V1.81 下载地址
 
-windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.1.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.0.exe)
+windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.1.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.1.exe)
 
 mac: [http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg](http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg)
 
@@ -24,7 +24,7 @@ http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115
 
 ### Windows (v3.5)
  
-[http://cdn.kittenbot.cn/makecode/win/Makecode Setup 3.5.0.exe](http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.4.0.exe)
+[http://cdn.kittenbot.cn/makecode/win/Makecode Setup 3.5.0.exe](http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.5.0.exe)
 
 另有绿色版下载，直接解压就能用喽~
  
