@@ -22,9 +22,9 @@ http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115
 
 ![](./makecodeV3.png)
 
-### Windows (v3.4)
+### Windows (v3.5)
  
-[http://cdn.kittenbot.cn/makecode/win/Makecode Setup 3.4.0.exe](http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.4.0.exe)
+[http://cdn.kittenbot.cn/makecode/win/Makecode Setup 3.5.0.exe](http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.4.0.exe)
 
 另有绿色版下载，直接解压就能用喽~
  
