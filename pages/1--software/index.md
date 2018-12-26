@@ -8,9 +8,9 @@ menuTitle: 软件
 
 ![](./kittenblock_main.png)
 
-## 最新版本V1.80 下载地址
+## 最新版本V1.81 下载地址
 
-windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.0.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.0.exe)
+windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.1.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.0.exe)
 
 mac: [http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg](http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg)
 
