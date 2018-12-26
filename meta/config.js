@@ -36,12 +36,12 @@ module.exports = {
     { name: "twitter", url: "https://twitter.com/kittenbot1" },
     { name: "facebook", url: "http://facebook.com/kittenbotcc" }
   ],
-
+  herotitle: "欢迎来到小喵的机器人实验室",
   // top menu
   menu: {
     blog: { to: "/blogs/", label: "Blog" },
     products: { to: "/products/", label: "产品" },
-    bbs: { to: "http://kittenbot.cn/bbs/index.php", label: "论坛" },
+    bbs: { to: "http://bbs.kittenbot.cn/index.php", label: "论坛" },
     contact: { to: "/contact/", label: "联系我们" }
   }
 };
