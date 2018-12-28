@@ -20,7 +20,7 @@ http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115
 
 ## Makecode
 
-![](./makecodeV.png)
+![](./makecode.png)
 
 ### Windows (v3.5)
  
