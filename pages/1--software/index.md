@@ -6,7 +6,7 @@ menuTitle: 软件
 
 ## Kittenblock
 
-![](./kittenblock_main.png)
+![](./kittenblock.png)
 
 ## 最新版本V1.81 下载地址
 
@@ -20,7 +20,7 @@ http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115
 
 ## Makecode
 
-![](./makecodeV3.png)
+![](./makecodeV.png)
 
 ### Windows (v3.5)
  
