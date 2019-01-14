@@ -1,7 +1,7 @@
 ---
 title: 机械臂
 category: "机器人套件"
-cover: robotarm.png
+cover: show.png
 ---
 
 # 机械臂说明
