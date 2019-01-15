@@ -34,7 +34,7 @@ module.exports = {
   authorSocialLinks: [
     { name: "github", url: "https://github.com/kittenbot" },
     { name: "twitter", url: "https://twitter.com/kittenbot1" },
-    { name: "facebook", url: "http://facebook.com/kittenbotcc" }
+    { name: "facebook", url: "https://facebook.com/kittenbotcc" }
   ],
   herotitle: "欢迎来到小喵的机器人实验室",
   // top menu
