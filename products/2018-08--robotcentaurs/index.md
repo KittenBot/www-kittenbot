@@ -1,7 +1,7 @@
 ---
 title: 多脚兽
 category: "机器人套件"
-cover: s1.png
+cover: show.png
 ---
 
 # 多脚兽说明  

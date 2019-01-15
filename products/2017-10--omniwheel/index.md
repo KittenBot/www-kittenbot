@@ -1,7 +1,7 @@
 ---
 title: 全向轮小车
 category: "机器人套件"
-cover: zhanshi44.png
+cover: show.png
 ---
 
 # 全向轮小车说明
