@@ -41,7 +41,7 @@ module.exports = {
   menu: {
     blog: { to: "/blogs/", label: "Blog" },
     products: { to: "/products/", label: "产品" },
-    bbs: { to: "http://bbs.kittenbot.cn/index.php", label: "论坛" },
+    bbs: { to: "https://bbs.kittenbot.cn/index.php", label: "论坛" },
     contact: { to: "/contact/", label: "联系我们" }
   }
 };
