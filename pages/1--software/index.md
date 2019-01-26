@@ -48,6 +48,20 @@ Mac：[http://cdn.kittenbot.cn/makecode/mac/Makecode-3.1.0.dmg](http://cdn.kitte
 
 ---
 
+## 手机APP
+
+喵家特有的Scratch3手机APP，包括iOS，android版本
+
+![](./app-screen.jpg)
+
+IOS请搜索KBlock 或者Kittenbot
+
+Android可以在在[google play下载](https://play.google.com/store/apps/details?id=cc.kittenbot.kblock)
+
+或者直接下载最新版本的(APK安装包)[http://cdn.kittenbot.cn/app/kblock235.apk]
+
+### 改进建议和需求都可以在我们论坛和QQ群大胆提出来~
+
 ## Microbit 0250固件
 
 
