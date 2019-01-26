@@ -58,9 +58,23 @@ IOS请搜索KBlock 或者Kittenbot
 
 Android可以在在[google play下载](https://play.google.com/store/apps/details?id=cc.kittenbot.kblock)
 
-或者直接下载最新版本的(APK安装包)[http://cdn.kittenbot.cn/app/kblock235.apk]
+或者直接下载最新版本的[APK安装包](http://cdn.kittenbot.cn/app/kblock235.apk)
 
 ### 改进建议和需求都可以在我们论坛和QQ群大胆提出来~
+
+## 小程序
+
+喵家提供了一个用于直接控制Microbit x Robotbit的小程序，需要提前在Microbit上下载蓝牙通信固件
+
+请在Kittenblock中选择Microbit（python）> ble，之后恢复固件。
+
+微信中扫描下面小程序二维码
+
+![](./wx-app.jpg)
+
+### PS 也推荐大家使用喵家粉丝大锤大神的敲bit小程序
+
+[敲比特](http://mp.weixin.qq.com/s?__biz=MzU2NjUzNjM3NQ==&mid=2247483696&idx=1&sn=fdd233c70d4de8ba6c0977dc0db3338c&chksm=fcabb0e8cbdc39fe3701534f147bc83f0ea8d3711f3e745a2535caa47905e1243c700830c58f&mpshare=1&scene=23&srcid=0126NuL7mwMy1QXCpMBB9E2f#rd)
 
 ## Microbit 0250固件
 
