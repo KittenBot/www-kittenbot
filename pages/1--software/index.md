@@ -10,11 +10,11 @@ menuTitle: 软件
 ![](./kittenblock.png)
 
 
-## 最新版本V1.82 下载地址
+## 最新版本V1.83 下载地址
 
-windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.2.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.2.exe)
+windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.3.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.3.exe)
 
-mac: [http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg](http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg)
+mac: [http://cdn.kittenbot.cn/mac/Kittenblock-1.8.3.dmg](http://cdn.kittenbot.cn/mac/Kittenblock-1.8.3.dmg)
 
 历史版本和改进意见请前往我们的bbs发布帖子：
 [论坛Kittenblock栏](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=115)
