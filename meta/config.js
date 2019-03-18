@@ -30,6 +30,11 @@ module.exports = {
   // gravatarImgMd5: "https://www.gravatar.com/avatar/1db853e4df386e8f699e4b35505dd8c6",
   gravatarImgMd5: "",
 
+  /* multilanguage support */
+  blogTitle: "小喵家的新闻",
+  conntactUs: "联系我们",
+  productTitle: "喵家套件",
+  
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/kittenbot" },
