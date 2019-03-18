@@ -3,18 +3,27 @@ title: Tools and projects from kittenbot team
 menuTitle: Lab
 ---
 
+## Scratch3 Project Share
 
-## NeoMatrix editor
 
-https://kittenbot.github.io/pxt-neomatrix/index.html
+[Scratch3 Project Share](/scratch3/)
 
-## Iot Dashboard
+## NeoMatrix Editor (also support arcade and meowbit image import)
 
-Under construction
 
-## Makecode Editor (comming soon)
+[https://kittenbot.github.io/pxt-neomatrix/index.html](https://kittenbot.github.io/pxt-neomatrix/index.html)
 
-### Microbit
+## Iot Host
 
-### Meowbit
+[Iot Dashboard](/iotdb/)
+
+## Makecode Online editor
+
+[http://makecode.kittenbot.cn/index.html](http://makecode.kittenbot.cn/index.html)
+
+(support neomatrix editor)
+
+### Kittenbot's github repos
+
+[Kittenbot@Github](https://github.com/kittenbot/)
 
