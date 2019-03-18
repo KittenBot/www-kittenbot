@@ -5,13 +5,11 @@ menuTitle: 实验室
 
 ## Scratch3 项目分享
 
-Scratch3项目分享功能模块测试中，请耐心等待下一版APP更新，谢谢 ~
 
 [Scratch3项目分享](/scratch3/)
 
-## 流光溢彩编辑器
+## 流光溢彩编辑器 (已经支持arcade和Meowbit图片导入)
 
-已经搬迁到github，未来会在github同步更新~
 
 [https://kittenbot.github.io/pxt-neomatrix/index.html](https://kittenbot.github.io/pxt-neomatrix/index.html)
 

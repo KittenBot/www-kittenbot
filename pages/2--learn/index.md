@@ -9,3 +9,7 @@ menuTitle: 文档
 （包括喵家2017~2018所有产品文档教程和使用说明）
 
 http://learn.kittenbot.cn
+
+### 喵比特文档
+
+https://kittenbot.github.io/meowbit-tutorials/
