@@ -24,6 +24,11 @@ module.exports = {
   manifestThemeColor: "#666",
   manifestDisplay: "standalone",
 
+  /* multilanguage support */
+  blogTitle: "News from kittenbot",
+  conntactUs: "Conntact Us",
+  productTitle: "Products",
+
   // gravatar
   // Use your Gravatar image. If empty then will use src/images/jpg/avatar.jpg
   // Replace your email adress with md5-code.
